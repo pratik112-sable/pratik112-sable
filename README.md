@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I Am content creator 
+
+Youtube Pratik sable Creation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,mysql,git,github,idea,vscode,postman,linux" height="40" alt="Tech stack icons"/>
+</p>
 <!--
 **pratik112-sable/pratik112-sable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
