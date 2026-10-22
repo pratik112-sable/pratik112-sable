@@ -23,7 +23,7 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Styled Components, Responsive UI |
-| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication | Python
 | **Databases** | MongoDB, PostgreSQL (psql) |
 | **Languages & DSA** | Java, Python, JavaScript (Regular LeetCode Problem Solver) |
 | **Testing & QA** | Manual Testing (Exploratory, UI/UX, Regression), Automation Testing Concepts, Postman (API Testing) |
@@ -33,11 +33,15 @@
 
 ### 🧠 LeetCode Problem-Solving Dashboard
 <p align="center">
-  <!-- Dynamic LeetCode Stats Card -->
-  <img src=["https://github-readme-leetcode.vercel.app/api?username=pratiksable&theme=dark&hide_rank=false&show_icons=true&font=gelasio" alt="LeetCode Stats"](https://leetcode.com/u/pratiksable112/) />
+  <!-- Dynamic LeetCode Stats Card linked to your profile -->
+  <a href="https://leetcode.com/u/pratiksable112/" target="_blank">
+    <img src="https://github-readme-leetcode.vercel.app/api?username=pratiksable112&theme=dark&hide_rank=false&show_icons=true&font=gelasio" alt="LeetCode Stats" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/pratiksable" alt="LeetCode Badge" />
+  <a href="https://leetcode.com/u/pratiksable112/" target="_blank">
+    <img src="https://leetcode-badge.vercel.app/api/users/pratiksable112" alt="LeetCode Badge" />
+  </a>
 </p>
 
 ---
@@ -59,8 +63,9 @@ I believe writing great code goes hand-in-hand with ensuring software reliabilit
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-* ✉️ **Email:** your.email@example.com
+* 💼 **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/pratik-sable-120177285/)
+* 🧠 **LeetCode:** [Pratik Sable on LeetCode](https://leetcode.com/u/pratiksable112/)
+* ✉️ **Email:** pratiksable112@gmail.com 
 
 ---
 <p align="center">❤️ Thanks for visiting my profile!</p>
