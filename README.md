@@ -34,7 +34,7 @@
 ### 🧠 LeetCode Problem-Solving Dashboard
 <p align="center">
   <!-- Dynamic LeetCode Stats Card -->
-  <img src="https://github-readme-leetcode.vercel.app/api?username=pratiksable&theme=dark&hide_rank=false&show_icons=true&font=gelasio" alt="LeetCode Stats" />
+  <img src=["https://github-readme-leetcode.vercel.app/api?username=pratiksable&theme=dark&hide_rank=false&show_icons=true&font=gelasio" alt="LeetCode Stats"](https://leetcode.com/u/pratiksable112/) />
 </p>
 <p align="center">
   <img src="https://leetcode-badge.vercel.app/api/users/pratiksable" alt="LeetCode Badge" />
