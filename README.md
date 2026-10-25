@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pratik Sable 👋</h1>
-<h3 align="center">A passionate MERN Stack Developer & Software Engineer from India 🇮🇳</h3>
+<h3 align="center">B.Tech IT Graduate | MERN Stack Developer & Software Quality Engineer 🚀</h3>
 
 <br>
 
@@ -11,23 +11,25 @@
 ---
 
 ### 💻 About Me
-* 🌱 I’m currently focused on building robust full-stack web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
-* 💡 Passionate about solving complex algorithmic problems and writing clean, scalable code.
-* 🛠️ Experienced in database management, RESTful APIs, responsive UI/UX design, and software testing principles.
+* 🎓 Graduated with a **B.Tech in Information Technology**.
+* 🌱 Passionate about building robust full-stack web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+* 🧪 Strong foundation in software quality assurance, covering both **Manual Testing, API Testing, and Jira** workflow management.
+* 🤖 Exploring **AI-driven tools and n8n workflow automation** to build smarter, highly efficient automated solutions.
+* ☁️ Knowledgeable in **Salesforce Administration** and algorithmic problem-solving using Java and Python.
 * 🗣️ Multilingual: Fluent in English, Hindi, and Marathi.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Styled Components, Responsive UI |
-| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication | Python
-| **Databases** | MongoDB, PostgreSQL (psql) |
-| **Languages & DSA** | Java, Python, JavaScript (Regular LeetCode Problem Solver) |
-| **Testing & QA** | Manual Testing (Exploratory, UI/UX, Regression), Automation Testing Concepts, Postman (API Testing) |
-| **Tools & Platforms** | Git, GitHub, VS Code, Salesforce (Admin & Development) |
+| **Web Development** | React.js, Node.js, Express.js, MongoDB, JavaScript (ES6+), HTML5, CSS3, REST APIs |
+| **Software Testing & QA** | Manual Testing, API Testing, Jira, Bug Tracking & Test Management |
+| **AI & Automation** | AI-driven Tools, n8n Workflow Automation |
+| **Programming & DSA** | Java, Python, JavaScript (Regular LeetCode Problem Solver) |
+| **CRM & Platforms** | Salesforce Administration |
+| **Tools & Version Control** | Git, GitHub, VS Code, Postman |
 
 ---
 
@@ -46,13 +48,6 @@
 
 ---
 
-### 🔍 Quality Assurance & Testing Expertise
-I believe writing great code goes hand-in-hand with ensuring software reliability:
-* **Manual Testing:** Adept at exploratory testing, UI/UX verification, ad-hoc bug hunting, and ensuring seamless user experiences.
-* **Automation Testing & APIs:** Understanding of test automation principles, regression testing workflows, and API endpoint validation using tools like **Postman**.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -63,9 +58,9 @@ I believe writing great code goes hand-in-hand with ensuring software reliabilit
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/pratik-sable-120177285/)
+* 💼 **LinkedIn:** [Your LinkedIn Profile Link]
 * 🧠 **LeetCode:** [Pratik Sable on LeetCode](https://leetcode.com/u/pratiksable112/)
-* ✉️ **Email:** pratiksable112@gmail.com 
+* ✉️ **Email:** your.email@example.com
 
 ---
 <p align="center">❤️ Thanks for visiting my profile!</p>
